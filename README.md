@@ -1,0 +1,1 @@
+Este repositório contém as resoluções dos casos práticos propostos como parte do processo seletivo da Target. Cada pasta no repositório corresponde a um caso específico, com uma solução detalhada e os respectivos arquivos de código.
